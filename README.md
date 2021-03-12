@@ -11,12 +11,12 @@ Getting Started:
 8. click the little green triangle next to the main method and select Run 'main' -> you'll see the output in your terminal
 
 In IDE terminal (near bottom of window):
-1. run `pip install flask_restful`
-2. run `pip install flask`
+1. run `pip install flask`
+2. run `pip install flask_restful`
 3. run `pip install pandas`
 4. create your initialization file with `touch __init__.py` -> after you'll see it in your project
 5. run `touch user_api.py`
-6. open your user_api.py file & copy the code from my file in GitHub
+6. open your user_api.py file & copy the code from my file in [my GitHub repo](https://github.com/lomittable/python_rest_api)
 7. Also copy the users.csv file into your "my_first_python_app" folder: this will act as our database (easier setup than a SQL/MongoDB/Cassandra or whatever is popular these days)
 
 Run your app
